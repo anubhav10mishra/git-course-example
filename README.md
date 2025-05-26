@@ -1,1 +1,1 @@
-we are learning how to make commits
+we are learning how to commit 
